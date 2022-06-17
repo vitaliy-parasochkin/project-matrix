@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/project-matrix/static/css/main.db3d20f1.css",
+    "main.js": "/project-matrix/static/js/main.d1a221da.js",
+    "static/media/main-phon.png": "/project-matrix/static/media/main-phon.2fcf3a550db0c2ceb8df.png",
+    "index.html": "/project-matrix/index.html",
+    "main.db3d20f1.css.map": "/project-matrix/static/css/main.db3d20f1.css.map",
+    "main.d1a221da.js.map": "/project-matrix/static/js/main.d1a221da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db3d20f1.css",
+    "static/js/main.d1a221da.js"
+  ]
+}
