@@ -2,7 +2,6 @@ import React from "react";
 import { MatrixRow } from "./MatrixRow";
 import { nanoid } from "nanoid";
 import { useDispatch, useSelector } from "react-redux";
-import { UPDATE_ROW } from "../redux/types";
 import {
   updateCellAction,
   updateColumnAction,
